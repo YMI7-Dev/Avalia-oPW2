@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cor{
+    background-color:#deb205;
+}
+
+.elements{
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    align-items: normal;
+}
+
+.img1{
+    width: 360px;
+    height: 400px;
+}
+
+
+.img2{
+    width: 360px;
+    height: 400px;
+}
